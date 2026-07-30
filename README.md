@@ -21,6 +21,22 @@ The project demonstrates the complete workflow of a quantitative trading strateg
 
 ---
 
+## Example Outputs
+
+### Price Ratio
+
+![Price Ratio](ratio.png)
+
+### Z-Score and Trading Signals
+
+![Z-Score](z_score.png)
+
+### Equity Curve
+
+![Equity Curve](equity_curve.png)
+
+---
+
 ## Technologies
 
 - Python
