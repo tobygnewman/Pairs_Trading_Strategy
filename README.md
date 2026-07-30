@@ -25,15 +25,15 @@ The project demonstrates the complete workflow of a quantitative trading strateg
 
 ### Price Ratio
 
-![Price Ratio](ratio.png)
+![Price Ratio](images/ratio.png?raw=true)
 
 ### Z-Score and Trading Signals
 
-![Z-Score](z_score.png)
+![Z-Score](images/z_score.png?raw=true)
 
 ### Equity Curve
 
-![Equity Curve](equity_curve.png)
+![Equity Curve](images/equity_curve.png?raw=true)
 
 ---
 
